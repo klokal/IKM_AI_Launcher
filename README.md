@@ -19,7 +19,7 @@
   <a href="https://github.com/open-webui/open-webui"><b>OpenWebUI</b></a> 
   and 
   <a href="https://github.com/FastFlowLM/FastFlowLM"><b>FastFlowLM (FLM)</b></a> 
-  in separate PowerShell consoles.
+  in separate PowerShell consoles for daily inference completely on Ryzen AI NPU equipped laptops.
   <br />
   <i>This project does not bundle OpenWebUI, FLM, models, or any third-party binaries.</i>
 </p>
@@ -34,7 +34,7 @@
 ---
 
 ## 🖥️ Requirements
-- Windows 10/11
+- Windows 10/11, Ryzen AI cpu equipped with XDNA NPU.
 - Installed and configured <a href="https://github.com/open-webui/open-webui">OpenWebUI</a>
 - Installed <a href="https://github.com/FastFlowLM/FastFlowLM">FastFlowLM (FLM)</a>
 
