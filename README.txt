@@ -8,7 +8,7 @@ A small Windows GUI that launches **OpenWebUI** and **FLM** in separate PowerShe
 - OpenWebUI and FLM installed separately
 
 ## Download
-Grab the latest `.exe` from **Releases**. Check the SHA256 hash there.
+Grab the latest `.exe` from **Releases**.
 
 ## Usage
 1. Run the EXE.
@@ -16,7 +16,7 @@ Grab the latest `.exe` from **Releases**. Check the SHA256 hash there.
 3. Click **Launch Both Servers**. Click **Stop All Servers** to stop.
 
 ## Security Notes
-- Intended for localhost. If you expose beyond localhost, set CORS narrowly and enable auth in OpenWebUI.
+- Intended for localhost.
 - No telemetry or data collection.
 
 ## Build from Source
